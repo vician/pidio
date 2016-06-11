@@ -1,0 +1,4 @@
+Rock Radio Sumava|http://ice.abradio.cz/sumava128.mp3
+CRo 2|http://icecast7.play.cz/cro2-128.mp3
+CRo 3|http://icecast5.play.cz/cro3-128.mp3
+Proglas|http://icecast2.play.cz/proglas128
