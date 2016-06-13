@@ -1,5 +1,18 @@
 Rock Radio Sumava|http://ice.abradio.cz/sumava128.mp3
-CRo 2|http://icecast7.play.cz/cro2-128.mp3
-CRo 3|http://icecast5.play.cz/cro3-128.mp3
+CRo Radiozurnal|http://icecast7.play.cz/cro1-128.mp3
+CRo Dvojka|http://icecast7.play.cz/cro2-128.mp3
+CRo Vltava|http://icecast5.play.cz/cro3-128.mp3
+CRo Plus|http://icecast1.play.cz/croplus128.mp3
+CRo Junior|http://icecast5.play.cz/crojuniormaxi128.mp3
+CRo Wave|http://icecast6.play.cz/crowave-128.mp3
+Cro D-dur|http://icecast5.play.cz/croddur-128.mp3
 CRo Jazz|http://icecast1.play.cz/crojazz128.mp3
+CRo Retro|http://icecast7.play.cz/croretro128.mp3
+CRo Junior pisnicky|http://icecast7.play.cz/crojuniormini128.mp3
+CRo Sport|http://icecast7.play.cz/crosport128.mp3
+CRo Praha (zahranicni)|http://icecast2.play.cz/cro7-128.mp3
+CRo Ceske Budejovice|http://icecast2.play.cz/crocb128.mp3
+CRo Brno|http://icecast2.play.cz/crobrno128.mp3
+CRo Praha a Stredni cechy|http://icecast2.play.cz/croregion128.mp3
+CRo RAG Praha|http://icecast2.play.cz/croregina128.mp3
 Proglas|http://icecast2.play.cz/proglas128
