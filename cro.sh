@@ -16,7 +16,7 @@ download_url="http://media.rozhlas.cz/_download/$ID"
 stream_url="http://media.rozhlas.cz/_audio/$ID.mp3"
 
 echo "download_url: $download_url"
-echo "download_url: $stream_url"
+echo "stream_url: $stream_url"
 
 #mplayer "$download_url"
 mplayer "$stream_url"
